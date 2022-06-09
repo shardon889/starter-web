@@ -2,6 +2,8 @@
 
 This is a sample website project for showing how to use Git and Github Together.
 Adding a line for rebasing
+
+more changes from my feature branch too
 ## Introduction
 
 This a example to show how different parts of the Git repository and various commands using a web project.
