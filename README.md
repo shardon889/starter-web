@@ -17,3 +17,7 @@ This is just a simple web project, deployment can be done on any web server or e
 ## How To Contribute
 
 Sample website with plenty of files for demos
+
+
+###Copyright
+2022 Git.Training
